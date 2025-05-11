@@ -7,5 +7,5 @@ export BUILD_USERNAME=Failedmush ; \
 export BUILD_HOSTNAME=crave ; \
 export TARGET_INCLUDE_GAPPS=false
 source build/envsetup.sh && \
-lunch lineage_apollo-bp1a-userdebug && \
+lunch lineage_renoir-bp1a-userdebug && \
 m evolution > /dev/null && \
